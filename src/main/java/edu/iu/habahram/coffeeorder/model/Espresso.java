@@ -8,7 +8,7 @@ public class Espresso extends Beverage{
     }
     @Override
     public float cost() {
-        return 1.50F;
+        return 1.34F;
     }
 
 
